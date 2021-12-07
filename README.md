@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jishnu007
+- 👋 Hi, I’m Jishnu Pavithran
 - 👀 I’m interested in Web Devolpement,Game Development and BlockChain 
 - 🌱 I’m currently learning Vue and Solidity
 - 💞️ I’m looking to collaborate on anything which interests me
