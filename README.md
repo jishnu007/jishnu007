@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jishnu Pavithran
-- 👀 I’m interested in Web Devolpement,Game Development and BlockChain 
+- 👀 I’m interested in Web Devolpement and BlockChain 
 - 🌱 I’m currently learning Web 3.0  and blockchain
 - 💞️ I’m looking to collaborate on anything which interests me
 
